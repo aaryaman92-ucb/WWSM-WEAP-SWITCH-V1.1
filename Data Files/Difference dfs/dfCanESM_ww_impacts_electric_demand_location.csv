@@ -1,0 +1,73 @@
+,Location,Location_total,Date,Percent
+62,Elec_Return Flow from IN_CA_SCE_S to MUNI_CA_SCE_S[GwH],-135675,12/1/2070,0.19350629
+54,Elec_Return Flow from IN_CA_PGE_N to CA_PGE_N_MUNI[GwH],-87637,12/1/2070,0.124992156
+53,Elec_Return Flow from IN_CA_PGE_CEN to MUNI_CA_PGE_CEN[GwH],-75548,12/1/2070,0.107750235
+50,Elec_Return Flow from IN_CA_PGE_BAY to CA_PGE_BAY_MUNI[GwH],-70639,12/1/2070,0.100748781
+105,Elec_Return Flow from IN_OR_W to Withdrawal Node 50[GwH],-68781,12/1/2070,0.098098811
+119,Elec_Return Flow from IN_WA_W to Withdrawal Node 54[GwH],-54981,12/1/2070,0.078416579
+71,Elec_Return Flow from IN_CO_DEN to MUNI_CO_DEN[GwH],-50298,12/1/2070,0.071737456
+109,Elec_Return Flow from IN_UT_N to MUNI_UT_N[GwH],-49386,12/1/2070,0.070436717
+82,Elec_Return Flow from IN_ID_S_OR_E to MUNI_ID_OR_E[GwH],-42973,12/1/2070,0.061290185
+103,Elec_Return Flow from IN_OR_PDX to Withdrawal Node 33[GwH],-42943,12/1/2070,0.061247397
+49,Elec_Return Flow from IN_CA_LADWP to Withdrawal Node 35[GwH],-42048,12/1/2070,0.059970905
+99,Elec_Return Flow from IN_NV_S to MUNI_NV_S[GwH],-39659,12/1/2070,0.056563596
+97,Elec_Return Flow from IN_NV_N to Withdrawal Node 34[GwH],-39010,12/1/2070,0.055637961
+113,Elec_Return Flow from IN_WA_ID_AVA to Withdrawal Node 53[GwH],-38695,12/1/2070,0.055188693
+117,Elec_Return Flow from IN_WA_SEATAC to Withdrawal Node 57[GwH],-38023,12/1/2070,0.054230254
+67,Elec_Return Flow from IN_CA_SDGE to MUNI_CA_SDGE_SFW[GwH],-32962,12/1/2070,0.047012009
+59,Elec_Return Flow from IN_CA_SCE_CEN to MUNI_CA_SCE_CEN[GwH],-32568,12/1/2070,0.046450067
+70,Elec_Return Flow from IN_CA_SMUD to Withdrawal Node 125[GwH],-30180,12/1/2070,0.043044185
+41,Elec_Return Flow from IN_AZ_PHX to MUNI_AZ_PHX[GwH],-29443,12/1/2070,0.04199304
+107,Elec_Return Flow from IN_OR_WA_BPA to MUNI_OR_WA_BPA[GwH],-27621,12/1/2070,0.039394415
+13,Elec_IN_CA_SCE_S\Domestic Heating[GwH],-27139,12/1/2070,0.038706963
+57,Elec_Return Flow from IN_CA_PGE_S to Withdrawal Node 121[GwH],-22352,12/1/2070,0.031879511
+44,Elec_Return Flow from IN_AZ_SE to Withdrawal Node 67[GwH],-20751,12/1/2070,0.029596086
+93,Elec_Return Flow from IN_NM_N to Withdrawal Node 18[GwH],-17793,12/1/2070,0.025377243
+94,Elec_Return Flow from IN_NM_S_TX_EPE to MUNI_NM_S_TX_EPE[GwH],-17677,12/1/2070,0.025211798
+76,Elec_Return Flow from IN_CO_NW to MUNI_CO_NW[GwH],-15824,12/1/2070,0.022568959
+111,Elec_Return Flow from IN_UT_S to Withdrawal Node 6[GwH],-15051,12/1/2070,0.021466469
+74,Elec_Return Flow from IN_CO_E to MUNI_CO_E[GwH],-14511,12/1/2070,0.020696295
+81,Elec_Return Flow from IN_ID_E to Withdrawal Node 68[GwH],-14449,12/1/2070,0.020607867
+88,Elec_Return Flow from IN_MT_SE to MUNI_MT_SE[GwH],-12724,12/1/2070,0.018147588
+125,Elec_Return Flow from IN_WY_SE to Withdrawal Node 20[GwH],-12602,12/1/2070,0.017973586
+78,Elec_Return Flow from IN_CO_SW to MUNI_CO_SW[GwH],-11598,12/1/2070,0.016541632
+64,Elec_Return Flow from IN_CA_SCE_VLY to CA_SCE_VLY_MUNI[GwH],-10730,12/1/2070,0.015303648
+33,Elec_Return Flow from IN_AZ_APS_N to MUNI_AZ_SPS_N[GwH],-9889,12/1/2070,0.014104173
+37,Elec_Return Flow from IN_AZ_NM_N to MUNI_AZ_NM_N[GwH],-9745,12/1/2070,0.013898793
+115,Elec_Return Flow from IN_WA_N_CEN to MUNI_WA_N_CEN[GwH],-8925,12/1/2070,0.012729269
+87,Elec_Return Flow from IN_MT_NW to Withdrawal Node 70[GwH],-8454,12/1/2070,0.012057506
+121,Elec_Return Flow from IN_WY_NE to Withdrawal Node 30[GwH],-8170,9/1/2070,0.011652452
+46,Elec_Return Flow from IN_CA_IID to Withdrawal Node 66[GwH],-7903,12/1/2070,0.011271643
+9,Elec_IN_CA_PGE_BAY\Domestic Heating[GwH],-7882,12/1/2070,0.011241692
+101,Elec_Return Flow from IN_OR_E to Withdrawal Node 58[GwH],-7104,12/1/2070,0.010132071
+141,Elec_Transmission Link from AZ_PHX_GW to AZ_PHX_MUNI[GwH],7135,11/1/2070,-0.010176284
+134,Elec_SWP[GwH],7362,9/1/2070,-0.010500043
+106,Elec_Return Flow from IN_OR_WA_BPA to Columbia River[GwH],7726,12/1/2070,-0.011019197
+162,Elec_Transmission Link from CA_SCE_VLY_GW to CA_PGE_S_Tulare[GwH],7797,12/1/2070,-0.011120461
+60,Elec_Return Flow from IN_CA_SCE_CEN to Santa Clara River[GwH],8008,12/1/2070,-0.011421399
+42,Elec_Return Flow from IN_AZ_PHX to Verde River[GwH],8242,12/1/2070,-0.011755142
+69,Elec_Return Flow from IN_CA_SMUD to Sacramento River[GwH],8448,12/1/2070,-0.012048949
+68,Elec_Return Flow from IN_CA_SDGE to Sweetwater River[GwH],8692,12/1/2070,-0.012396954
+0,Elec_CAP[GwH],8849,12/1/2070,-0.012620875
+149,Elec_Transmission Link from CA_PGE_CEN_GW0 to CA_PGE_CEN_San Jo Valley[GwH],8935,12/1/2070,-0.012743532
+208,Elec_Transmission Link from NV_S_GW to NV_S_MUNI[GwH],9937,12/1/2070,-0.014172633
+96,Elec_Return Flow from IN_NV_N to Trukee River[GwH],10208,12/1/2070,-0.014559147
+156,Elec_Transmission Link from CA_PGE_N_GW to MUNI_CA_PGE_N[GwH],10422,12/1/2070,-0.014864364
+116,Elec_Return Flow from IN_WA_SEATAC to Cedar River[GwH],10557,12/1/2070,-0.015056907
+148,Elec_Transmission Link from CA_PGE_CEN_GW0 to CA_PGE_CEN_MUNI[GwH],10714,12/1/2070,-0.015280828
+112,Elec_Return Flow from IN_WA_ID_AVA to Spokane River[GwH],10844,12/1/2070,-0.015466241
+98,Elec_Return Flow from IN_NV_S to Colorado River[GwH],11124,12/1/2070,-0.01586559
+48,Elec_Return Flow from IN_CA_LADWP to CoastalLA River[GwH],11676,12/1/2070,-0.01665288
+102,Elec_Return Flow from IN_OR_PDX to Columbia River[GwH],12029,12/1/2070,-0.017156345
+83,Elec_Return Flow from IN_ID_S_OR_E to Snake River[GwH],12038,12/1/2070,-0.017169182
+108,Elec_Return Flow from IN_UT_N to Bear[GwH],13836,12/1/2070,-0.019733577
+72,Elec_Return Flow from IN_CO_DEN to South Platte River[GwH],14109,12/1/2070,-0.020122943
+118,Elec_Return Flow from IN_WA_W to Skagit[GwH],15414,12/1/2070,-0.021984197
+171,Elec_Transmission Link from CO_DEN_GW to CO_DEN_MUNI[GwH],17044,12/1/2070,-0.024308983
+51,Elec_Return Flow from IN_CA_PGE_BAY to San Joaquin Pipeline[GwH],18391,12/1/2070,-0.026230139
+104,Elec_Return Flow from IN_OR_W to Middle Santiam River[GwH],19289,12/1/2070,-0.027510911
+52,Elec_Return Flow from IN_CA_PGE_CEN to Kings River[GwH],21191,12/1/2070,-0.030223636
+55,Elec_Return Flow from IN_CA_PGE_N to Sacramento River[GwH],24577,12/1/2070,-0.035052914
+3,Elec_Colo Aqueduct[GwH],29605,4/1/2070,-0.042224092
+63,Elec_Return Flow from IN_CA_SCE_S to San Diego Creek[GwH],33101,12/1/2070,-0.047210258
+132,Elec_SWP East Branch[GwH],106324,12/1/2070,-0.151644465
